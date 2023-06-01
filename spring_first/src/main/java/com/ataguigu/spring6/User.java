@@ -8,6 +8,7 @@ public class User {
 
     public User(){
         System.out.println("无参构造执行了。");
+        System.out.println();
     }
 
     public void add(){
